@@ -1,2 +1,4 @@
 .DS_Store
 .idea/
+REPO_STATUS
+conf*.sh
